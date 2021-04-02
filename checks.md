@@ -161,3 +161,12 @@ This check tries to determine if the project has branch protection enabled.
   force pushes or deletion of your important branches.
 - For GitHub, check out the steps
   [here](https://docs.github.com/en/github/administering-a-repository/managing-a-branch-protection-rule).
+
+
+## Automatic-Dependency-Update
+
+This check tries to determine if the project has dependencies automatically updated.
+
+**Remediation steps**:
+- Enable dependabot for the project and have a dependabot.yml file in the repository. 
+ 
