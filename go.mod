@@ -15,9 +15,7 @@ require (
 	github.com/shurcooL/graphql v0.0.0-20200928012149-18c5c3165e3a // indirect
 	github.com/spf13/cobra v1.1.3
 	go.uber.org/zap v1.16.0
-	gocloud.dev v0.22.0
-	golang.org/x/oauth2 v0.0.0-20201203001011-0b49973bad19
-	golang.org/x/sys v0.0.0-20210403161142-5e06dd20ab57 // indirect
-	golang.org/x/tools v0.1.0 // indirect
+	gocloud.dev v0.23.0
+	golang.org/x/oauth2 v0.0.0-20210427180440-81ed05c6b58c
 	gopkg.in/check.v1 v1.0.0-20200902074654-038fdea0a05b // indirect
 )
