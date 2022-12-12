@@ -3,7 +3,7 @@ module github.com/ossf/scorecard/gitcache
 go 1.15
 
 require (
-	github.com/go-git/go-git/v5 v5.3.0
+	github.com/go-git/go-git/v5 v5.5.1
 	github.com/go-vela/archiver v2.1.0+incompatible // indirect
 	github.com/mholt/archiver v3.1.1+incompatible
 	github.com/onsi/ginkgo v1.16.1
@@ -12,7 +12,6 @@ require (
 	github.com/pkg/errors v0.9.1
 	go.uber.org/zap v1.16.0
 	gocloud.dev v0.22.0
-	golang.org/x/tools v0.1.0 // indirect
 )
 
 // The originial repository does not handle symlinks and there is an open PR https://github.com/mholt/archiver/pull/230.
