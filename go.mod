@@ -7,8 +7,8 @@ require (
 	github.com/google/go-github/v32 v32.1.0
 	github.com/kr/text v0.2.0 // indirect
 	github.com/naveensrinivasan/httpcache v1.2.2
-	github.com/onsi/ginkgo v1.16.1
-	github.com/onsi/gomega v1.11.0
+	github.com/onsi/ginkgo v1.16.4
+	github.com/onsi/gomega v1.24.2
 	github.com/peterbourgon/diskv v2.0.1+incompatible
 	github.com/pkg/errors v0.9.1
 	github.com/shurcooL/githubv4 v0.0.0-20200928013246-d292edc3691b
@@ -17,7 +17,5 @@ require (
 	go.uber.org/zap v1.16.0
 	gocloud.dev v0.22.0
 	golang.org/x/oauth2 v0.0.0-20201203001011-0b49973bad19
-	golang.org/x/sys v0.0.0-20210403161142-5e06dd20ab57 // indirect
-	golang.org/x/tools v0.1.0 // indirect
 	gopkg.in/check.v1 v1.0.0-20200902074654-038fdea0a05b // indirect
 )
